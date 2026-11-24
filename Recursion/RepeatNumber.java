@@ -10,9 +10,9 @@ public class RepeatNumber {
     public static void main(String[] args) {
         RepeatNumber sol = new RepeatNumber();
 
-        int[] ex1 = {4, 1, 2, 1, 2};
+        int[] arr = {4, 1, 2, 1, 2};
        
-        System.out.println(" SingelNumber : " + sol.doubleNumber(ex1)); 
+        System.out.println(" SingelNumber : " + sol.doubleNumber(arr)); 
     }
 }
 
